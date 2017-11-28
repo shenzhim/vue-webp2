@@ -1,0 +1,20 @@
+{
+  "name": "vue-webp2",
+  "version": "1.0.0",
+  "description": "A vue directive help you replace img src from .png .jpg to .webp",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "webp"
+  ],
+  "author": "szmalq@163.com",
+  "homepage": "https://github.com/shenzhim/vue-webp2#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenzhim/vue-webp2.git"
+  },
+  "license": "MIT"
+}
